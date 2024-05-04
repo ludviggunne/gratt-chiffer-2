@@ -1,4 +1,4 @@
 main
 *.wav
 *.mid
-result/
+result
